@@ -1,0 +1,8 @@
+2019-06-05 19:58:45,077 [9] INFO  - Log4net is configured for ValuesController
+2019-06-05 19:58:45,103 [9] INFO  - [Log4NetLogging_Project.Controllers.ValuesController.Get:23] - This is Info logging
+2019-06-05 19:58:45,104 [9] DEBUG - [Log4NetLogging_Project.Controllers.ValuesController.Get:24] - This is Debug logging
+2019-06-05 19:58:45,105 [9] ERROR - [Log4NetLogging_Project.Controllers.ValuesController.Get:25] - This is Error logging
+2019-06-05 20:04:44,484 [9] INFO  - Log4net is configured for ValuesController
+2019-06-05 20:04:44,505 [9] INFO  - [Log4NetLogging_Project.Controllers.ValuesController.Get:23] - This is Info logging
+2019-06-05 20:04:44,506 [9] DEBUG - [Log4NetLogging_Project.Controllers.ValuesController.Get:24] - This is Debug logging
+2019-06-05 20:04:44,507 [9] ERROR - [Log4NetLogging_Project.Controllers.ValuesController.Get:25] - This is Error logging

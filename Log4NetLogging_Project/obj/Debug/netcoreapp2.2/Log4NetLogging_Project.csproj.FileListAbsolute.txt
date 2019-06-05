@@ -1,0 +1,14 @@
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\bin\Debug\netcoreapp2.2\Log4NetLogging_Project.deps.json
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\bin\Debug\netcoreapp2.2\Log4NetLogging_Project.runtimeconfig.json
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\bin\Debug\netcoreapp2.2\Log4NetLogging_Project.runtimeconfig.dev.json
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\bin\Debug\netcoreapp2.2\Log4NetLogging_Project.dll
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\bin\Debug\netcoreapp2.2\Log4NetLogging_Project.pdb
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.csprojAssemblyReference.cache
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.csproj.CoreCompileInputs.cache
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.RazorAssemblyInfo.cache
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.RazorAssemblyInfo.cs
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.AssemblyInfoInputs.cache
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.AssemblyInfo.cs
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.RazorTargetAssemblyInfo.cache
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.dll
+E:\Repos\Log4NetLogging_Project\Log4NetLogging_Project\obj\Debug\netcoreapp2.2\Log4NetLogging_Project.pdb
